@@ -19,6 +19,6 @@ public class ReverseNumber {
                 }
                
                 //output the reversed number
-                System.out.println("Reversed Number is ggggg: " + reversedNumber);
+                System.out.println("Reversed Number is gfhdfd: " + reversedNumber);
         }
 }
